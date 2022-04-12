@@ -1,16 +1,27 @@
-### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/rodrigo-pova)
 
-<!--
-**rodrigo-pova/rodrigo-pova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align=center><samp>Hello World! 🤓</samp></h2>
 
-Here are some ideas to get you started:
+Hello, world! My name is **[Rodrigo Pova](https://rodrigo-pova.github.io)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a 🇧🇷-based Chemistry teacher turned Web Developer.
+
+I'm a student at [Trybe](https://github.com/betrybe), where I’ve acquired knowledge and practice in the following technologies:
+
+<div align="center">
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg'>
+  <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+</div>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-pova)](https://github.com/anuraghazra/github-readme-stats)
