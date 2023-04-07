@@ -6,7 +6,7 @@ Hello, world! My name is **[Rodrigo Pova](https://rodrigo-pova.github.io)**.
 
 I am a 🇧🇷-based Chemistry teacher turned Web Developer.
 
-I'm a student at [Trybe](https://github.com/betrybe), where I’ve acquired knowledge and practice in the following technologies:
+I studied at [Trybe](https://github.com/betrybe), where I’ve acquired knowledge and practice in the following technologies:
 
 <div align="center">
   <img height="42" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' title="JavaScript">
